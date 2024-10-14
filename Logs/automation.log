@@ -1,0 +1,44 @@
+12:49:04.776 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@10876a6: 0 ms
+12:49:04.836 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@770b3be0: 15 ms
+12:49:04.881 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6bd16207: 45 ms
+12:49:04.914 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7bb004b8: 33 ms
+12:49:04.914 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@78e89bfe: 0 ms
+15:13:50.018 [main] INFO  testCases.TC002_LoginTestCase - **** TC002_LoginTestCase started *****
+15:13:50.035 [main] INFO  testCases.TC002_LoginTestCase - clicked on MyAccount
+15:13:50.323 [main] INFO  testCases.TC002_LoginTestCase - clicked on Login
+15:13:50.922 [main] INFO  testCases.TC002_LoginTestCase - Entered Login Details
+15:13:52.048 [main] INFO  testCases.TC002_LoginTestCase - Validating Login
+15:13:52.267 [main] INFO  testCases.TC002_LoginTestCase - **** TC002_LoginTestCase Finished *****
+15:15:46.789 [main] INFO  testCases.TC001_AccountRegistration - ***** Started TC001_AccountRegistration ******
+15:15:46.861 [main] INFO  testCases.TC001_AccountRegistration - Clicked on MyAccountLink
+15:15:46.998 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Register button
+15:15:47.510 [main] INFO  testCases.TC001_AccountRegistration - Providing Customer Details
+15:15:49.131 [main] INFO  testCases.TC001_AccountRegistration - Validating Expected message
+15:15:54.945 [main] INFO  testCases.TC002_LoginTestCase - **** TC002_LoginTestCase started *****
+15:15:54.945 [main] INFO  testCases.TC002_LoginTestCase - clicked on MyAccount
+15:15:55.062 [main] INFO  testCases.TC002_LoginTestCase - clicked on Login
+15:15:55.400 [main] INFO  testCases.TC002_LoginTestCase - Entered Login Details
+15:15:56.502 [main] INFO  testCases.TC002_LoginTestCase - Validating Login
+15:15:56.600 [main] INFO  testCases.TC002_LoginTestCase - **** TC002_LoginTestCase Finished *****
+15:34:42.444 [main] INFO  testCases.TC001_AccountRegistration - ***** Started TC001_AccountRegistration ******
+15:34:42.492 [main] INFO  testCases.TC001_AccountRegistration - Clicked on MyAccountLink
+15:34:42.647 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Register button
+15:34:43.107 [main] INFO  testCases.TC001_AccountRegistration - Providing Customer Details
+15:34:45.050 [main] INFO  testCases.TC001_AccountRegistration - Validating Expected message
+15:34:51.533 [main] INFO  testCases.TC002_LoginTestCase - **** TC002_LoginTestCase started *****
+15:34:51.533 [main] INFO  testCases.TC002_LoginTestCase - clicked on MyAccount
+15:34:51.661 [main] INFO  testCases.TC002_LoginTestCase - clicked on Login
+15:34:52.020 [main] INFO  testCases.TC002_LoginTestCase - Entered Login Details
+15:34:52.996 [main] INFO  testCases.TC002_LoginTestCase - Validating Login
+15:34:53.122 [main] INFO  testCases.TC002_LoginTestCase - **** TC002_LoginTestCase Finished *****
+15:53:24.400 [main] INFO  testCases.TC001_AccountRegistration - ***** Started TC001_AccountRegistration ******
+15:53:24.451 [main] INFO  testCases.TC001_AccountRegistration - Clicked on MyAccountLink
+15:53:24.664 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Register button
+15:53:25.165 [main] INFO  testCases.TC001_AccountRegistration - Providing Customer Details
+15:53:27.416 [main] INFO  testCases.TC001_AccountRegistration - Validating Expected message
+15:53:35.248 [main] INFO  testCases.TC002_LoginTestCase - **** TC002_LoginTestCase started *****
+15:53:35.248 [main] INFO  testCases.TC002_LoginTestCase - clicked on MyAccount
+15:53:35.377 [main] INFO  testCases.TC002_LoginTestCase - clicked on Login
+15:53:35.687 [main] INFO  testCases.TC002_LoginTestCase - Entered Login Details
+15:53:36.910 [main] INFO  testCases.TC002_LoginTestCase - Validating Login
+15:53:36.973 [main] INFO  testCases.TC002_LoginTestCase - **** TC002_LoginTestCase Finished *****
